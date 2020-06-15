@@ -2,7 +2,7 @@
 
 # Example 
 
-nyt.png 
+![alt text](http://url/to/nyt.png)
 
 ## How to Run.
 
