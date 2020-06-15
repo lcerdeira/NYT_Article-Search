@@ -1,5 +1,9 @@
 # New York Times article search application.
 
+# Example 
+
+nyt.png 
+
 ## How to Run.
 
 * Open up the html in any browser you like.
