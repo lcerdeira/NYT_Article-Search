@@ -2,7 +2,7 @@
 
 # Example 
 
-nyt.png 
+![alt text](nyt.png)
 
 ## How to Run.
 
